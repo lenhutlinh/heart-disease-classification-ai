@@ -1,0 +1,2 @@
+Model,Test Accuracy,Macro AUC,Weighted AUC
+ResNet-1D,0.7476,0.8901,0.9145
